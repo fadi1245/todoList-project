@@ -5,11 +5,8 @@ This is the backend API for the **To-Do List** application. It allows users to c
 ## Table of Contents
 
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [API Endpoints](#api-endpoints)
-- [Setup Environment Variables](#setup-environment-variables)
-- [Running the Server](#running-the-server)
-- [Notes](#notes)
+- [Implementation](#Implemetation)
+
 
 ## Technologies Used
 
@@ -21,7 +18,7 @@ This is the backend API for the **To-Do List** application. It allows users to c
 - **Cors**: For enabling Cross-Origin Request Sharing.
 - **body-parser**: Middleware to handle incoming request bodies.
 
-## Installation
+## Implementation
 
 ### 1. Clone the Repository
 
