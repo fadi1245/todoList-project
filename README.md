@@ -34,3 +34,11 @@ git clone https://github.com/your-username/your-repo-name.git
 cd server
 npm install
 
+##Set Up Environment Variables
+PORT=8000
+MONGO_URI=mongodb://your-username:your-password@cluster-url:port/database-name
+
+##Run the Server
+npm start
+
+
